@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Maven Practice Test Automation Test Suite">
+
+
+	<test name="Maven Practice  Test Cases">
+		<classes>
+			<class name="testCases.TestCase1"></class>
+			<class name="testCases.TestCase2"></class>
+			<class name="testCases.TestCase3"></class>
+		</classes>
+	</test>
+</suite>

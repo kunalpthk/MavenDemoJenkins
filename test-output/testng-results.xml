@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="43" started-at="2019-03-25T16:44:50Z" finished-at="2019-03-25T16:44:50Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="43" started-at="2019-03-25T16:44:50Z" finished-at="2019-03-25T16:44:50Z">
+      <class name="testCases.TestCase1">
+        <test-method status="PASS" signature="setup()[pri:0, instance:testCases.TestCase1@62ee68d8]" name="setup" is-config="true" duration-ms="11" started-at="2019-03-25T22:14:50Z" finished-at="2019-03-25T22:14:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:testCases.TestCase2@735b5592]" name="setup" is-config="true" duration-ms="0" started-at="2019-03-25T22:14:50Z" finished-at="2019-03-25T22:14:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:testCases.TestCase3@58651fd0]" name="setup" is-config="true" duration-ms="0" started-at="2019-03-25T22:14:50Z" finished-at="2019-03-25T22:14:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="Test1()[pri:0, instance:testCases.TestCase1@62ee68d8]" name="Test1" duration-ms="5" started-at="2019-03-25T22:14:50Z" finished-at="2019-03-25T22:14:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test1 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testCases.TestCase2@735b5592]" name="tearDown" is-config="true" duration-ms="0" started-at="2019-03-25T22:14:50Z" finished-at="2019-03-25T22:14:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testCases.TestCase3@58651fd0]" name="tearDown" is-config="true" duration-ms="0" started-at="2019-03-25T22:14:50Z" finished-at="2019-03-25T22:14:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testCases.TestCase1@62ee68d8]" name="tearDown" is-config="true" duration-ms="0" started-at="2019-03-25T22:14:50Z" finished-at="2019-03-25T22:14:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.TestCase1 -->
+      <class name="testCases.TestCase2">
+        <test-method status="PASS" signature="Test2()[pri:0, instance:testCases.TestCase2@735b5592]" name="Test2" duration-ms="1" started-at="2019-03-25T22:14:50Z" finished-at="2019-03-25T22:14:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test2 -->
+      </class> <!-- testCases.TestCase2 -->
+      <class name="testCases.TestCase3">
+        <test-method status="PASS" signature="Test3()[pri:0, instance:testCases.TestCase3@58651fd0]" name="Test3" duration-ms="1" started-at="2019-03-25T22:14:50Z" finished-at="2019-03-25T22:14:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test3 -->
+      </class> <!-- testCases.TestCase3 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
